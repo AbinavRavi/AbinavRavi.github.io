@@ -20,5 +20,5 @@ RESULT : We won the hackathon with first prize. So seems like third time is the 
 TAKEAWAYS: Clear planning and splitting of tasks meant each were doing their own work and we just had to integrate. The integration was not that difficult since most of us were python programmers. 
 
 Some Photos:
-![prize winners](../images/hackathon_2.jpeg)
-![Team cracke](../images/hackathon_3.jpeg)
+![prize winners](<../images/hackathon_2.jpeg>)
+![Team cracke](<../images/hackathon_3.jpeg>)
