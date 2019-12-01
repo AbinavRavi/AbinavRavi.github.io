@@ -24,7 +24,7 @@ Clear planning and splitting of tasks meant each were doing their own work and w
 Some Photos:
 
 <div style="text-align: center;">
-  <img src="../images/hackathon_2.jpeg" style="width: 500px">
+  <img src="../images/hackathon_2.jpeg" style="width: 500px"></br>
   <img src="../images/hackathon_3.jpeg" style="width: 500px">
 </div>
 <!---[prize winners](<../images/hackathon_2.jpeg>)
