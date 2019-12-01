@@ -13,13 +13,12 @@ Me and my team came together on the first evening and sat down for just one pitc
 
 With all the four people in the team being people who do deep learning an easy thing was to do deep learning. But we couldn't come up with a business solution for the deep learning problem. So we thought why not try our old friend of basic Image Analysis by just producing a bounding box over the cracked image and roughly approximating the crack length. Another information that was provided to us was that the materials were from ships or airplanes where the fatigue stress is high. So with some domain knowledge that I have with my mechanical engineering degree the idea was to calculate the approximate time of crack initiation and compare it a material property. Then we generate a report in html and send it back to the web app.
 
-For details regarding the project please look at ![Devpost](https://devpost.com/software/crack-e) and ![Code](https://github.com/AbinavRavi/cracke) for further details.
+For details regarding the project please look at [Devpost](https://devpost.com/software/crack-e) and [Code](https://github.com/AbinavRavi/cracke) for further details.
 
 RESULT : We won the hackathon with first prize. So seems like third time is the charm.
 
 TAKEAWAYS: Clear planning and splitting of tasks meant each were doing their own work and we just had to integrate. The integration was not that difficult since most of us were python programmers. 
 
 Some Photos:
-![demo time](../images/hackathon_1.jpeg)
 ![prize winners](../images/hackathon_2.jpeg)
 ![Team cracke](../images/hackathon_3.jpeg)
