@@ -15,10 +15,18 @@ With all the four people in the team being people who do deep learning an easy t
 
 For details regarding the project please look at [Devpost](https://devpost.com/software/crack-e) and [Code](https://github.com/AbinavRavi/cracke) for further details.
 
-RESULT : We won the hackathon with first prize. So seems like third time is the charm.
+#### RESULT : 
+We won the hackathon with first prize. So seems like third time is the charm.
 
-TAKEAWAYS: Clear planning and splitting of tasks meant each were doing their own work and we just had to integrate. The integration was not that difficult since most of us were python programmers. 
+#### TAKEAWAYS: 
+Clear planning and splitting of tasks meant each were doing their own work and we just had to integrate. The integration was not that difficult since most of us were python programmers. 
 
 Some Photos:
-![prize winners](<../images/hackathon_2.jpeg>)
+
+<div style="text-align: center;">
+  <img src="../images/hackathon_2.jpeg" style="width: 500px">
+  <img src="../images/hackathon_3.jpeg" style="width: 500px">
+</div>
+<!---[prize winners](<../images/hackathon_2.jpeg>)
 ![Team cracke](<../images/hackathon_3.jpeg>)
+--->
