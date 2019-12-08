@@ -57,4 +57,4 @@ Tom and Jerry are two data scientists meeting on a meetup. They generally discus
 
 **Jerry**: That sounds interesting do you have some results to share? 
 
-**Tom**: ![Table of results](images/baseline-2.png). For the vision
+**Tom**: ![Table of results](assets/baseline-2.png). For the vision
