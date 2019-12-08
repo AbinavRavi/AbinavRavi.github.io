@@ -28,4 +28,4 @@ Clear planning and splitting of tasks meant each were doing their own work and w
   <img src="../images/hackathon_3.jpeg" style="width: 200px">
 </div> --->
 [prize winners](</assets/hackathon_2.jpeg>)
-![Team cracke](</assets/hackathon_3.jpeg>)
+[Team cracke](</assets/hackathon_3.jpeg>)
