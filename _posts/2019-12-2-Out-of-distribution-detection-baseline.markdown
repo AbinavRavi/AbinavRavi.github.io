@@ -7,10 +7,17 @@ share: True
 categories: Machine learning
 ---
 
-Two data scientists Tom and Jerry are discussing a paper titled [A baseline for detecting misclassified and Out of distribution examples in Neural networks](https://arxiv.org/abs/1610.02136).
+Tom and Jerry are two data scientists meeting on a meetup. They generally discuss papers. Tom is a dedicated reader who pre-reads before coming to meetup and Jerry generally learns by breaking Tom's lecture with questions.
+
+### Scene 
+**Jerry**: Hi, Tom what are you upto nowadays. Are you a data janitor or you get to do some modelling as well?
+
+**Tom**: Hi Jerry, I have been reading a paper which I think is quite interesting for all people creating Neural network models
+
+**Jerry**: Ah what is the name of the paper and why is it so interesting?
 
 #### Introduction:
-**Tom**: A Neural network(NN) trains on a given set of data and during deployment(test time) it is unrealistic to expect the same distribution from the test data as well. For a given classification task the state of the art method fails when the test image is out of classes on which the classifier is trained. 
+**Tom**: The paper is called [A baseline for detecting misclassified and Out of distribution examples in Neural networks](https://arxiv.org/abs/1610.02136).We know that A Neural network(NN) trains on a given set of data and predicts output according to task as classification or segmentation or Sentiment analysis. One common problem is that during deployment(test time) it is unrealistic to expect the same distribution from the test data as well. For a given classification task the state of the art method fails when the test image is out of classes on which the classifier is trained. This paper tells a way to detect the failure.  
 
 **Jerry** :How is the model failing?
 
@@ -24,4 +31,26 @@ Two data scientists Tom and Jerry are discussing a paper titled [A baseline for 
 
 **Tom** : This issue is called detecting out of distribution. The Out of distribution samples tend to have lower softmax values compared to in-distribution (training) samples when passed through a NN. So analyzing the statistics prediction probabilities or softmax values for incorrect or abnormal samples will give a good picture. But viewing just one sample prediction probability maybe misleading and is a wrong approach.
 
-**Jerry**
+**Jerry** Then can it be assumed that the approach is state of the art?
+
+**Tom**: That is where the paper gets interesting. The authors have themselves chosen few tasks and shown that beating the baseline results are possible. Another Interesting aspect is that they have worked on tasks from three major data science communities of Vision, Audio and Natural language. Let us talk a little about how they pose the problem and details
+
+**Jerry**: Sure, I am curious already
+
+#### Problem Statement
+**Tom**: The authors examine 2 related problems of *error and success prediction* and *in and out of distribution detection*. I would like to focus on *Out of distribution detection* as the main problem and present the experiments and results accordingly. 
+
+**Jerry**: Can you explain in what exactly the authors are trying in Out of distribution detection?
+
+**Tom** Sure, By Out of distribution detection they want to check if there are means of detecting whether a test sample belongs to same distribution as training data **(In distribution)** or from a different distribution **(Out of distribution)**. 
+
+**Jerry**: Is there an evaluation metric or just softmaxes are used?
+
+**Tom**: The authors say that comparing two detectors is not easy as just comparing their accuracies. This could be flawed as one detector may be measuring positive samples and other negative ones. So we should come up with a metric that should specify a score threshold where positive samples are classified correctly and then measure performance. As a result of such measure they empoy AUROC metric (Area under receiver Characteristic curve) and AUPR (Area under precision recall curve).
+
+**Jerry** How do these metrics work?
+
+**Tom**: Both the metrics mentioned are threshold independent. The ROC curve is a graph measuring true positive rate and false positive rate against each other. AUROC can be interpreted as probability that a positive sample has a greater detector score than negative class. The AUPR plot precision against recall and this ranges between a baseline of Precision value and 100% for perfect classifier. Since the aim is to detect Out of distribution samples they are considered as positive class. 
+
+#### Method
+**Tom** : Let me explain the method now. 
