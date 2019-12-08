@@ -22,4 +22,6 @@ Two data scientists Tom and Jerry are discussing a paper titled [A baseline for 
 
 **Jerry** : Oh that sounds bad. How to solve this issue?
 
-**Tom** : This issue is called detecting out of distribution. The Out of distribution samples tend to have lower softmax values compared to in-distribution (training) samples when passed through a NN
+**Tom** : This issue is called detecting out of distribution. The Out of distribution samples tend to have lower softmax values compared to in-distribution (training) samples when passed through a NN. So analyzing the statistics prediction probabilities or softmax values for incorrect or abnormal samples will give a good picture. But viewing just one sample prediction probability maybe misleading and is a wrong approach.
+
+**Jerry**
