@@ -12,7 +12,7 @@ Tom and Jerry are two data scientists meeting on a meetup. They generally discus
 ### Scene 
 **Jerry**: Hi, Tom what are you upto nowadays. Are you a data janitor or you get to do some modelling as well?
 
-**Tom**: Hi Jerry, I have been reading a paper which I think is quite interesting for all people creating Neural network models
+**Tom**: Hi Jerry, I finally have some modelling work apart from being the data Janitor and for that I have been reading a paper which I think is quite interesting for all people working with Neural network models.
 
 **Jerry**: Ah what is the name of the paper and why is it so interesting?
 
@@ -53,4 +53,8 @@ Tom and Jerry are two data scientists meeting on a meetup. They generally discus
 **Tom**: Both the metrics mentioned are threshold independent. The ROC curve is a graph measuring true positive rate and false positive rate against each other. AUROC can be interpreted as probability that a positive sample has a greater detector score than negative class. The AUPR plot precision against recall and this ranges between a baseline of Precision value and 100% for perfect classifier. Since the aim is to detect Out of distribution samples they are considered as positive class. 
 
 #### Method
-**Tom** : Let me explain the method now. 
+**Tom** : Let me explain the method now.We have a classifier currently trained on some data and during test time we retrieve predicted class probability from a softmax distribution and use it as a score. We then pass these values through the metrics and get to know the performance of classifier. In our Case we treat the correctly classified in in-distribution samples as positive and run metrics on them. For *Out of distribution (OOD)* we run metrics on classified OOD samples as Positive and use the negative of the score to run through metrics. 
+
+**Jerry**: That sounds interesting do you have some results to share? 
+
+**Tom**: ![Table of results](images/baseline-2.png). For the vision
