@@ -57,4 +57,23 @@ Tom and Jerry are two data scientists meeting on a meetup. They generally discus
 
 **Jerry**: That sounds interesting do you have some results to share? 
 
-**Tom**: ![Table of results](/assets/baseline-2.png). For the vision
+**Tom**: ![Table of results](/assets/baseline-2.png). For the vision the authors use the following datasets.
+
+* MNIST (In) and Omniglot, notMNIST, CIFAR-10bw(black white)
+* CIFAR (In) and SUN(Scene understanding) as OOD datasets.
+
+**Jerry** So the results look good but I have two questions
+1. How do you select the OOD datasets?
+2. Is OOD dataset shown during training?
+
+**Tom**: 
+* The OOD datasets are chosen in this paper are mostly in understanding that grayscale image detector can work only with grayscale images and color with color images. The OOD datasets must be different from the In-distribution dataset.
+* No OOD dataset is  not shown during training. It is only shown during test-time and the scores are calculated then.
+
+#### Conclusion and code
+
+**Tom** : So we have a baseline now for Out of distribution detection. This paper indeed shows that there is a simple way with pre-existing classifiers to check for OOD samples during test time. Once we detect that it is an OOD sample we can leave it out then measure other metrics to report performance. 
+
+**Jerry**: Is there a github repo for this paper somewhere to play with the code?
+
+**Tom**: Yes there is, [Github link](<https://github.com/hendrycks/error-detection>). 

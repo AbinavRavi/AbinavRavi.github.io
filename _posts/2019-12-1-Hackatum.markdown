@@ -26,7 +26,6 @@ Clear planning and splitting of tasks meant each were doing their own work and w
 <div style="text-align: center;">
   <img src="../images/hackathon_2.jpeg" style="width: 200px">
   <img src="../images/hackathon_3.jpeg" style="width: 200px">
-</div>
-[prize winners](<../images/hackathon_2.jpeg>)
-![Team cracke](<../images/hackathon_3.jpeg>)
---->
+</div> --->
+[prize winners](</assets/hackathon_2.jpeg>)
+![Team cracke](</assets/hackathon_3.jpeg>)
