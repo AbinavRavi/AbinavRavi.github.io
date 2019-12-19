@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Implicit Neural Solver for time dependent PDE for Convergence Guarantee"
-date:   2019-12-07 18:45:00 +0100
+date:   2019-12-14 18:45:00 +0100
 comments: True
 share: True
 categories: Machine learning
@@ -20,6 +20,6 @@ This conversation is between me and my friends explaining the paper to them.
 
 **Me**: The general idea is to learn from simulated data and instead of choosing the discretization method yourself the network does it for you. We also did some proofs on theoretical correctness of the idea of using neural networks and found that the neural solver is actually quite fast than a normal solver. So we plan to save time too.
 
-**Friend** : 
+**Friend** : What kind of PDE do you consider? Os is it very general?
 
-**Me**: 
+**Me**: We consider a time dependent Linear PDE. Which can be given as $$
