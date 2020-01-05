@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A simple Unified framework for detecting OOD Samples"
-date:   2019-12-28 18:45:00 +0100
+date:   2020-1-5 18:45:00 +0100
 comments: True
 share: True
 categories: Machine learning
@@ -25,8 +25,8 @@ categories: Machine learning
 
 **Tom**: So where do we use the generative classifier?
 
-**Jerry**: After training a network or having a pretrained network we assume that the class conditional distribution $$ p(f(x);\middle|;y)$$ or the training is following a Gaussian distribution. Which means that during the training the data takes the distribution of Normal distribution (Yes the bell curve one, Statisticians and Data scientists like it very much). Now this can be mathematically written as 
-$$ P(f(x);\middle|;y=c) = \mathcal{N}(f(x);\middle|;\mu_c,\Sigma)$$
+**Jerry**: After training a network or having a pretrained network we assume that the class conditional distribution $$ p(f(x)\midy)$$ or the training is following a Gaussian distribution. Which means that during the training the data takes the distribution of Normal distribution (Yes the bell curve one, Statisticians and Data scientists like it very much). Now this can be mathematically written as 
+$$ P(f(x);\mid;y=c) = \mathcal{N}(f(x)\mid\mu_c,\Sigma)$$
 
 **Tom**: Are there any more assumptions?(sarcastically)
 
