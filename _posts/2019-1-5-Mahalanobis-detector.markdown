@@ -17,7 +17,7 @@ categories: Machine learning
 
 **Tom**: A confidence score! That introduces the concept of uncertainty in the network right?
 
-**Jerry**: Yes of course. Let me explain in detail. In a bayesian framework the previous baseline paper the usage of softmax would be similar to using confidence from a posterior distribution $$(p(y\givenx))$$. In this papers the authors propose the usage of generative classifier based technique to measure probability density of test sample in feature space.
+**Jerry**: Yes of course. Let me explain in detail. In a bayesian framework the previous baseline paper the usage of softmax would be similar to using confidence from a posterior distribution $$(p(y \mid x))$$. In this papers the authors propose the usage of generative classifier based technique to measure probability density of test sample in feature space.
 
 **Tom**: Could you please explain what is this generative classifier?
 
