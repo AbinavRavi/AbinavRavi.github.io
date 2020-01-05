@@ -17,7 +17,7 @@ categories: Machine learning
 
 **Tom**: A confidence score! That introduces the concept of uncertainty in the network right?
 
-**Jerry**: Yes of course. Let me explain in detail. In a bayesian framework the previous baseline paper the usage of softmax would be similar to using confidence from a posterior distribution $$(p(y;\middle|;x))$$. In this papers the authors propose the usage of generative classifier based technique to measure probability density of test sample in feature space.
+**Jerry**: Yes of course. Let me explain in detail. In a bayesian framework the previous baseline paper the usage of softmax would be similar to using confidence from a posterior distribution $$(p(y\givenx))$$. In this papers the authors propose the usage of generative classifier based technique to measure probability density of test sample in feature space.
 
 **Tom**: Could you please explain what is this generative classifier?
 
@@ -25,8 +25,8 @@ categories: Machine learning
 
 **Tom**: So where do we use the generative classifier?
 
-**Jerry**: After training a network or having a pretrained network we assume that the class conditional distribution $$ p(f(x)\midy)$$ or the training is following a Gaussian distribution. Which means that during the training the data takes the distribution of Normal distribution (Yes the bell curve one, Statisticians and Data scientists like it very much). Now this can be mathematically written as 
-$$ P(f(x);\mid;y=c) = \mathcal{N}(f(x)\mid\mu_c,\Sigma)$$
+**Jerry**: After training a network or having a pretrained network we assume that the class conditional distribution $$ p(f(x)\given y)$$ or the training is following a Gaussian distribution. Which means that during the training the data takes the distribution of Normal distribution (Yes the bell curve one, Statisticians and Data scientists like it very much). Now this can be mathematically written as 
+$$ P(f(x);\given;y=c) = \mathcal{N}(f(x)\given\mu_c,\Sigma)$$
 
 **Tom**: Are there any more assumptions?(sarcastically)
 
