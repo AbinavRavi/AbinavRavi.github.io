@@ -25,8 +25,8 @@ categories: Machine learning
 
 **Tom**: So where do we use the generative classifier?
 
-**Jerry**: After training a network or having a pretrained network we assume that the class conditional distribution $$ p(f(x)\given y)$$ or the training is following a Gaussian distribution. Which means that during the training the data takes the distribution of Normal distribution (Yes the bell curve one, Statisticians and Data scientists like it very much). Now this can be mathematically written as 
-$$ P(f(x);\given;y=c) = \mathcal{N}(f(x)\given\mu_c,\Sigma)$$
+**Jerry**: After training a network or having a pretrained network we assume that the class conditional distribution $$ \Pr(f(x)\mid y)$$ or the training is following a Gaussian distribution. Which means that during the training the data takes the distribution of Normal distribution (Yes the bell curve one, Statisticians and Data scientists like it very much). Now this can be mathematically written as 
+$$ \Pr(f(x) \mid y=c) = \mathcal{N}(f(x)\mid \mu_c,\Sigma)$$
 
 **Tom**: Are there any more assumptions?(sarcastically)
 
