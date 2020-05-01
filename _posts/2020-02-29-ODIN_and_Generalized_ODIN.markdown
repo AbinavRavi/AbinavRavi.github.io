@@ -13,8 +13,15 @@ This post will deal with advanced version and a comparison with this [post](http
 
 **Jerry**: How does this paper improve the baseline method?
 
-**Tom**: In this paper they consider the Softmax score as the confidence score as like in baseline but make small changes to the input by perturbing it by using Gaussian noise. They also use temperature scaling to increase the gap between In distribution and Out of Distribution.
+**Tom**: In this paper they consider the Softmax score as the confidence score as like in baseline but make small changes to the input by perturbing it. They also use temperature scaling to increase the gap between In distribution and Out of Distribution.
 
 **Jerry**: That sounds simple and elegant but can you tell me what is temperature scaling?
 
 **Tom**: Temperature scaling is when a single scalar hyperparameter T is used to increase the entropy of the given logit. By choosing this hyperparameter very carefully we can push the softmax scores of In and OOD samples further apart thereby making it very distinguishable.
+Mathematically we can represent the softmax score with Temperature scaling as 
+
+$S_i(x;T) = \frac{\exp(f_i(x)/T)}{\sum\limits_{j=1}^N \exp(f_j(x)/T)}$
+
+**Jerry**: Can you tell more about the Input Preprocessing that you were talking about?
+
+**Tom**: The input preprocessing is simple. inspired by goodfellow in this [paper](https://arxiv.org/abs/1412.6572) the input is perturbed a little. This is given by $ \tilde{x} = x - \eps sign(-\nabla_x log S_{\hat{y}}(x;T))$
