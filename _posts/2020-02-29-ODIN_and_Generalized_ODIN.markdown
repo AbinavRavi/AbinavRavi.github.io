@@ -59,4 +59,4 @@ TinyImageNet, LSUN, iSUN, Gaussian Noise, Uniform Noise.
 
 **Jerry**: What are the key takeways from the results?
 
-**Tom**: The key takeways can summarized as below [image](</assets/ODIN_results.png>)
+**Tom**: The key takeways can summarized as below [image](/assets/ODIN_results.png)
