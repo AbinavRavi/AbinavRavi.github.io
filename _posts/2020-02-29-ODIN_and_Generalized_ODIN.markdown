@@ -20,8 +20,8 @@ This post will deal with advanced version and a comparison with this [post](http
 **Tom**: Temperature scaling is when a single scalar hyperparameter T is used to increase the entropy of the given logit. By choosing this hyperparameter very carefully we can push the softmax scores of In and OOD samples further apart thereby making it very distinguishable.
 Mathematically we can represent the softmax score with Temperature scaling as 
 
-$S_i(x;T) = \frac{\exp(f_i(x)/T)}{\sum\limits_{j=1}^N \exp(f_j(x)/T)}$
+$$ S_i(x;T) = \frac{\exp(f_i(x)/T)}{\sum\limits_{j=1}^N \exp(f_j(x)/T)} $$
 
 **Jerry**: Can you tell more about the Input Preprocessing that you were talking about?
 
-**Tom**: The input preprocessing is simple. inspired by goodfellow in this [paper](https://arxiv.org/abs/1412.6572) the input is perturbed a little. This is given by $ \tilde{x} = x - \eps sign(-\nabla_x log S_{\hat{y}}(x;T))$
+**Tom**: The input preprocessing is simple. inspired by goodfellow in this [paper](https://arxiv.org/abs/1412.6572) the input is perturbed a little. This is given by $$ \tilde{x} = x - \eps sign(-\nabla_x log S_{\hat{y}}(x;T))$$
