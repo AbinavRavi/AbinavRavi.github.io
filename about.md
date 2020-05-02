@@ -19,4 +19,4 @@ I am a master's student of Computational Science and Engineering at The Technica
 
 You can know about my current projects at [Github](https://github.com/AbinavRavi)
 
-[MY CV](../resources/Abinavresume.pdf) updated on 2/2020
+[MY CV](../resources/Abinavresume.pdf) updated on 5/2020

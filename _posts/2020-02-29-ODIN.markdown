@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ODIN and Generalized ODIN"
+title:  "Enhancing the reliability of Out of Distribution Detection"
 date:   2020-05-01 18:45:00 +0100
 comments: True
 share: True
@@ -9,7 +9,7 @@ categories: Machine learning
 
 This post will deal with advanced version and a comparison with this [post](https://abinavravi.github.io/machine/learning/2019/12/07/Out-of-distribution-detection-baseline.html)
 
-**Tom**: Hey let us talk about a new paper called [ODIN](https://arxiv.org/abs/1706.02690) that improves our baseline for Out of distribution detection paper and a paper that tries to generalize the ODIN paper called [Generalized ODIN](https://arxiv.org/abs/2002.11297).
+**Tom**: Hey let us talk about a new paper called [ODIN](https://arxiv.org/abs/1706.02690) that improves our baseline for Out of distribution detection paper.
 
 **Jerry**: How does this paper improve the baseline method?
 
