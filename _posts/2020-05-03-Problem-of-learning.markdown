@@ -37,6 +37,16 @@ Reinforcement learning is a action reward based process. A good machine learning
 
 A good example of reinforcement in real life is learning driving. We learn not to bump at people brake and get a negative reward or bad consequence if we hit something or someone and we learn to optimize the path ourselves. A remark is that the robot takes a long time to optimize for the environment but humans adapt quickly. 
 
-**Semi Supervised learning**: (By [Abhijeet Parida](http://abhijeetparida.ml/)):
+**Semi Supervised learning**: (By [Abhijeet Parida](http://abhijeetparida.ml/))
 
-To be written
+Semi-supervised machine learning tasks combine learning from small amounts of labelled data with a large amount of unlabeled data during training. The learning is a hybrid of both the supervised as well as unsupervised approaches. It is really useful in scenarios where a large amount of data is available but only a small fraction is actually labelled. The labelled data is used to provide a hint as to how the unsupervised algorithm should perform.
+
+
+Even though applying the human ability of unsupervised learning we know that Cat, Dog, and Elephant are different distinct animals but we do not know their names ( due to no labels). When a child from a picture alphabet book is taught C for Cat, D for Dog, E for Elephant, looking at those labelled examples, next time it sees its pet cat, it can identify it as Cat.
+
+**Weakly Supervised learning**:(By [Abhijeet Parida](http://abhijeetparida.ml/))
+
+Weakly-supervised methods of learning are used when the labelled data are noisy or imprecise. The methods also deal with methods where the label are may be distantly related to the given task. For eg. in segmentation tasks, supervised methods require pixel-level annotation, but weakly-supervised methods can learn to segment from scribbles, points, bounding box, or class-level annotation.
+
+When you come back from a trip to the African Savannah (tall brown grassland all around). You show your great-grandma photos of the numerous zebras, elephants, lions, and giraffes you saw (labels as in object detection). She never knew that these animals existed or ever seen a picture of them before. She borrows a photograph where most of the animals are present and she shows it to her friends over tea and says,”look this out here is a zebra. Look look this one is called a Lion.”(inference as in segmentation)
+
