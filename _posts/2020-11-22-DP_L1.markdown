@@ -7,3 +7,18 @@ share: True
 categories: Machine learning, Differential Privacy
 ---
 
+In the interest of learning about Differential privacy I was searching the web for a course that basically starts from very basic and explain differential privacy to me. In this lecture the main focus was on what were the practices that led to a loss in privacy and certain real life examples to initiate people to the world of DP. There is also a gentle introduction into world of Data attacks. In the end of the lecture K-Anonymity is introduced. 
+
+***NYC Taxicab data:***
+
+**Background**
+Using Freedom of Information Law request one could get access to the NYC taxicab data.It is similar to Right to Information act (RTI) in India. The dataset is now public [here](http://www.andresmh.com/nyctaxitrips/). If you are a story person like me Please [read this story](https://chriswhong.com/open-data/foil_nyc_taxi/) about how the data was obtained. 
+
+**Alarm bells about data**
+A sample row from dataset with corresponding field is shown below
+
+| medallion | hack license | vendor id | rate code | store and fwd flag | pickup datetime |dropoff datetime | passenger count | trip time in secs | trip distance | pickup longitude | pickup latitude | dropoff longitude | dropoff latitude |
+| ---- | ---- | ---- | ---- | ---- | ---- |---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+6B111958A39B24140C973B262EA9FEA5 | D3B035A03C8A34DA17488129DA581EE7 | VTS | 5 |  | 2013-12-03 15:46:00 | 2013-12-03 16:47:00 | 1 | 3660 | 22.71 | -73.813927 | 40.698135 |-74.093307 | 40.829346 |
+
+This shows some sensitive information despite being anonymized. If we can find out the driver we can figure out details of the trips and income based on that. The Data owners have tried to anonymize that. Based on this [analysis](https://tech.vijayp.ca/of-taxis-and-rainbows-f6bc289679a1) we find that this anonymization is not enough. The inspiration for the above post started [here](https://www.reddit.com/r/bigquery/comments/28ialf/173_million_2013_nyc_taxi_rides_shared_on_bigquery/cicr3n2?utm_source=share&utm_medium=web2x&context=3). 
