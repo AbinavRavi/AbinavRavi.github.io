@@ -35,8 +35,10 @@ The dataset can be found now in kaggle competition [here](https://www.kaggle.com
 
 **De-Anonymization**
 
-![DeAnonymization using IMDb dataset, Image credits: Arvind Narayanan, Taken from Lecture notes of Course](../ml/DP/DeAnon.png)
+![DeAnonymization using IMDb dataset, Image credits: Arvind Narayanan, Taken from Lecture notes of Course](/ml/DP/DeAnon.png)
 The approach by Narayanan et.al involved usage of a public IMDb dataset and matching users based on similar rating provided in the IMDb dataset. Such a weak matching can also lead to names or user handles of many users across both the datasets. This is a very frightening case and a clear loss of privacy in the data.
 
 ***Memorization of Neural Networks***
+
+
 
