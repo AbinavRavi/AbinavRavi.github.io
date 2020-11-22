@@ -9,7 +9,7 @@ categories: Machine learning, Differential Privacy
 
 In the interest of learning about Differential privacy I was searching the web for a course that basically starts from very basic and explain differential privacy to me. In this lecture the main focus was on what were the practices that led to a loss in privacy and certain real life examples to initiate people to the world of DP. There is also a gentle introduction into world of Data attacks. In the end of the lecture K-Anonymity is introduced. 
 
-***NYC Taxicab data:***
+### NYC Taxicab data
 
 **Background**
 Using Freedom of Information Law request one could get access to the NYC taxicab data.It is similar to Right to Information act (RTI) in India. The dataset is now public [here](http://www.andresmh.com/nyctaxitrips/). If you are a story person like me Please [read this story](https://chriswhong.com/open-data/foil_nyc_taxi/) about how the data was obtained. 
@@ -25,7 +25,7 @@ This shows some sensitive information despite being anonymized. If we can find o
 
 A simple way to avoid this would be to generate random identifiers for the medallions. But this can also be prone to attacks. 
 
-***Netflix Prize***
+### Netflix Prize
 
 **Background**
 Netflix hosted a competition between 2006 and 2009 challenging scientists to improve their recommendation. The winner of the contest is a team called BellKor's Pragmatic Chaos which used matrix factorization technqiues to win the most coveted $1,000,0000 prize money. The dataset provided for this competition also has anonymization but it was difficult and could go wrong very easily prone to attacks similar to previous case where we can get a corresonding public dataset. 
@@ -38,7 +38,7 @@ The dataset can be found now in kaggle competition [here](https://www.kaggle.com
 ![DeAnonymization using IMDb dataset, Image credits: Arvind Narayanan, Taken from Lecture notes of Course](/ml/DP/DeAnon.png)
 The approach by Narayanan et.al involved usage of a public IMDb dataset and matching users based on similar rating provided in the IMDb dataset. Such a weak matching can also lead to names or user handles of many users across both the datasets. This is a very frightening case and a clear loss of privacy in the data.
 
-***Memorization of Neural Networks***
+### Memorization of Neural Networks
 
 
 
