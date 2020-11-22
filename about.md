@@ -7,7 +7,7 @@ permalink: /about/
 ![Abinav R](../resources/me.jpg){:style="width: 200px; overflow: hidden; border-radius: 50%; float: right; padding-left: 20px"}
 Hi, I am Abinav Ravi venkatakrishnan, Call me Abinav. 
 
-* I am passionate about machine learning since I believe it is an excellent problem solver for non-geniuses who can't comprehend non-linearity in mathematics. It is Simple words all about optimization something every human strives for in their life. So Machine learning is life for Machines. 
+* I am passionate about machine learning since it is all about optimization something every human strives for in their life.
 
 * I am interested in  Computer vision and  Medical imaging. I am also interested in generative models and trying to get a more detail understanding at the moment. 
 
