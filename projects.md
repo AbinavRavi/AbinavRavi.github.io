@@ -8,17 +8,20 @@ permalink: /projects/
 
 ### Publications:
 
-* Suprosanna.S, **Abinav R.**,Ivan Ezhov, Jana Lipkova,Marie Piraud,Bjoern Menze,[Implicit Neural Solver for Time-dependent Linear PDEs with Convergence Guarantee](<https://128.84.21.199/pdf/1910.03452.pdf>), [NeurIPS workshop on Machine learning with convergence Guarantees](https://sites.google.com/view/mlwithguarantees/accepted-papers?authuser=0)
+* **Abinav Ravi Venkatakrishnan**, Seong Tae Kim, Rami Eisawy, Franz Pfister, Nassir Navab, [Self supervised Out of Distribution detection in brain CT scans](http://campar.in.tum.de/pub/staekim2020medneurips/staekim2020medneurips.pdf), [Med Neurips 2020](https://sites.google.com/view/med-neurips-2020)
+* Suprosanna.S, **Abinav Ravi Venkatakrishnan**,Ivan Ezhov, Jana Lipkova,Marie Piraud,Bjoern Menze,[Implicit Neural Solver for Time-dependent Linear PDEs with Convergence Guarantee](<https://128.84.21.199/pdf/1910.03452.pdf>), [NeurIPS workshop on Machine learning with convergence Guarantees](https://sites.google.com/view/mlwithguarantees/accepted-papers?authuser=0)
 * **Abinav R** ,Nandu .R.Nair,P.Shravan,Pradeesh Kumar and S.R.Nagaraja ,[CFD Analysis of Co-Flow Jet Airfoil](<http://www.indjst.org/index.php/indjst/article/view/104686>), Indian Journal of Science and technology, vol.9 Issue.45
 * **Abinav R**, Nambiar G.K, Sahu D, [A case study on low power vapour compression refrigeration system](https://iopscience.iop.org/article/10.1088/1757-899X/149/1/012226),IOP Conference Series,Material science and Engineering, vol 149, July 2015.
 
 ### Projects
 
 #### Running:
-* Self Supervised Out of Distribution detection for Medical applications(Master thesis) {October 2019 - present}: 
-    The main aim of the thesis is to use Out of distribution detection to detect anomalous brain CT scans. Self Supervised learning is employed for efficient utilization of unlabelled data.
+* Training medical images across multiple hospital sites with PyGrid - for openmined writing team.
 
 #### Completed:
+* Self Supervised Out of Distribution detection for Medical applications(Master thesis) {October 2019 - July 2020}: 
+    The main aim of the thesis is to use Out of distribution detection to detect anomalous brain CT scans. Self Supervised learning is employed for efficient utilization of unlabelled data.
+
 * Inverse problems in PDE-Driven process using deep learning (Research project) {April 2019 - October 2019}:
     Proposed a Neural solver for learning optimal iterative scheme of the Partial differential equation using data driven methods. The trained neural solver results in a faster convergence compared to normal Finite difference method and Finite element method solvers for the same PDE.
 

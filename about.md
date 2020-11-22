@@ -15,9 +15,14 @@ I am a master's student of Computational Science and Engineering at The Technica
 * Completed Master thesis on [Self Supervised Out of Distribution detection for Medical application](../resources/thesis.pdf) under the supervision of [Dr.Kim SeongTae](http://campar.in.tum.de/Main/SeongTae) at [CAMPAR](http://campar.in.tum.de/Chair/ResearchGroupCamp).  
 * I have been selected as part of OpenMined research as a research engineer to work on project of Outlier robust aggregators for Federated learning. 
 * I worked with [Suprosanna](http://campar.in.tum.de/Main/SuprosannaShit) in [Image Based Biomedical Modelling](http://campar.in.tum.de/Chair/ResearchIBBM) lab on 'Solving Inverse Problem in PDE using deep learning'.
-* I am currently a Junior Data Scientist- Working student at [Deepc](http://deepc.ai/)
+* I am currently a Data Scientist at [Deepc](http://deepc.ai/)
+* I was previously a Junior Data Scientist- Working student at [Deepc](http://deepc.ai/)
 * I used to work as Working student-Data Science at [The Mobility House](https://www.mobilityhouse.com/int_en/)
 
 You can know about my current projects at [Github](https://github.com/AbinavRavi)
 
+<<<<<<< HEAD
 [MY CV](../resources/Abinavresume.pdf) updated on 9/2020
+=======
+[MY CV](../resources/Abinavresume.pdf) updated 11/2020
+>>>>>>> 35742feb53a3bc2b657d5100eea18ca87b64d736
