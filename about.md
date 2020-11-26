@@ -26,6 +26,7 @@ I am a master's student of Computational Science and Engineering at The Technica
 * I am currently a Data Scientist at [Deepc](http://deepc.ai/)
 * I was previously a Junior Data Scientist- Working student at [Deepc](http://deepc.ai/)
 * I used to work as Working student-Data Science at [The Mobility House](https://www.mobilityhouse.com/int_en/)
+* I am now a writer at [Openmined](https://blog.openmined.org/) with [post](https://blog.openmined.org/conference-summary-end-to-end-privacy-preserving-deep-learning-on-multi-institutional-medical-imaging-data/)
 
 You can know about my current projects at [Github](https://github.com/AbinavRavi)
 
