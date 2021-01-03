@@ -16,6 +16,7 @@ permalink: /projects/
 ### Projects
 
 #### Running:
+* Differential privacy and language models - OpenMined research project (*Role*:Research Engineer)
 * Training medical images across multiple hospital sites with PyGrid - for openmined writing team.
 
 #### Completed:
