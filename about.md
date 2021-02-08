@@ -18,7 +18,7 @@ This is my new attempt to log in details of my learnings from various code and c
 * For federated learning. I am following papers and using Pysyft to implement some stuff (Demo Coming soon)
 * I am following the course by Prof.Gautam Kamath on [Algorithms for Private data analysis](http://www.gautamkamath.com/CS860-fa2020.html)
 
-I am a master's student of Computational Science and Engineering at The Technical University of Munich. 
+I was a master's student of Computational Science and Engineering at The Technical University of Munich. 
 
 * Completed Master thesis on [Self Supervised Out of Distribution detection for Medical application](../resources/thesis.pdf) under the supervision of [Dr.Kim SeongTae](http://campar.in.tum.de/Main/SeongTae) at [CAMPAR](http://campar.in.tum.de/Chair/ResearchGroupCamp).  
 * I have been selected as part of OpenMined research as a research engineer to work on project of Outlier robust aggregators for Federated learning. 
