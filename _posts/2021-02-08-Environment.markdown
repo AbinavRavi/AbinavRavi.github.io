@@ -60,7 +60,7 @@ Sometimes the conda environment created is empty and in that case I do install p
 
 *As of Feb 2021 it is better to install python 3.8 as the dependencies on are easier for data science packages*
 
-#### requirements file
+#### Requirements file
 
 Write a requirements file as a part of your repository to install the necessary packages
 
@@ -74,6 +74,13 @@ pandas
 ...
 
 ```
+#### Installing with Pip
+
+Some packages that I use for development are not on conda so I use pip to install.
+
+`pip install -r requirements.txt`
+
+Now the package is setup with the requirements and a conda environment and can be used for development. 
 
 
 
