@@ -7,7 +7,9 @@ share: True
 categories: Engineering
 ---
 
-I have been thinking of collaborating on an open source project part of [Openmined](https://github.com/OpenMined) to build differential privacy pipelines and this blog is an exploration into the Apache beam python SDK and what I learn with minimal examples. I will try to document most of my learnings in this blog post. 
+I have been given an opportunity of collaborating on an open source project part of [Openmined](https://github.com/OpenMined) to build differential privacy pipelines on beam and this blog is an exploration into the Apache beam python SDK and what I learn with minimal examples. I will try to document most of my learnings in this blog post. 
 
 **Disclaimer**: I am entirely new to the field of Data engineering and ETL pipelines, So this post may not contain any comparisons to previous packages. 
+
+
 
