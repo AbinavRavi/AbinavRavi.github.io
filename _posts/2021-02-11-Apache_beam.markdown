@@ -11,5 +11,6 @@ I have been given an opportunity of collaborating on an open source project part
 
 **Disclaimer**: I am entirely new to the field of Data engineering and ETL pipelines, So this post may not contain any comparisons to previous packages. 
 
+### Word Count: The hello world of Data processing
 
 
