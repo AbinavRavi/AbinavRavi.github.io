@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Foundations of Private computation - Federated Learning"
+date:   2021-02-11 18:45:00 +0100
+comments: True
+share: True
+categories: Engineering
+---
+
+[Openmined](https://courses.openmined.org/) released their second course on Foundations of Private computation on March 16, 2021. I started this course as a way to get my hands dirty with Federated learning which is the first concept that is part of the 60 hour course. 
+
+This post will contain the notes that I have taken in this course along with the simple code examples and exercises done as a part of the course. 
+
+### Motivation for Federated Learning (FL)
+
+Data is the omnipresent in today's world from smart cars, homes, devices to hospitals, banks and huge institutions. In the world of social media our data is the digital footprint which shows the history. Such data is sensitive and private and when sensitive and private data is at the hand on one entity it can be mishandled. Hence the need for keeping the data decentralised and using methods that learn from decentralised data preserving privacy. 
+
+### Limitations of Standard Machine learning workflows:
+
+- Centralised data
+- Compromised privacy
+- Scarcity of sensitive data to train machine learning models
+- Computationally expensive to train everything on one node. 
+
+### Federated learning
+
+#### Definition:
+Federated learning is a setup for training Machine learning models on data without the data owner having to share, transfer or expose their data with developer and service provider. 
+
+#### Types
+There are mainly two types of federated learning 
+1. **Cross Device**
+2. **Cross Silo**
+
+##### Cross Device Federated learning
+In this type there are a lot of client devices that have sensitive data and one centralised server. The centralised server coordinates with the machines to train a machine learning model.
+
+##### Cross Silo Federated learning
+In this type the clients are huge institutions such as hospitals, banks etc which contain huge datasets of private and sensitive information. The data owners of this type prefer that the data to not leave the premise of the institution. 
+
+### How does federated learning work
+
