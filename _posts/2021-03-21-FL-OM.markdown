@@ -32,11 +32,10 @@ There are mainly two types of federated learning
 1. **Cross Device**
 2. **Cross Silo**
 
-##### Cross Device Federated learning
+<span style="color:blue">*Cross Device Federated learning*</span>
 In this type there are a lot of client devices that have sensitive data and one centralised server. The centralised server coordinates with the machines to train a machine learning model.
 
-##### Cross Silo Federated learning
+<span style="color:blue">*Cross Silo Federated learning*</span> 
 In this type the clients are huge institutions such as hospitals, banks etc which contain huge datasets of private and sensitive information. The data owners of this type prefer that the data to not leave the premise of the institution. 
 
 ### How does federated learning work
-
