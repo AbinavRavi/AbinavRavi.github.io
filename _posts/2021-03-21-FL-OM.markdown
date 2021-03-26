@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Foundations of Private computation - Federated Learning"
-date:   2021-02-11 18:45:00 +0100
+date:   2021-03-21 18:45:00 +0100
 comments: True
 share: True
-categories: Engineering
+categories: Machine learning
 ---
 
 [Openmined](https://courses.openmined.org/) released their second course on Foundations of Private computation on March 16, 2021. I started this course as a way to get my hands dirty with Federated learning which is the first concept that is part of the 60 hour course. 
@@ -35,7 +35,24 @@ There are mainly two types of federated learning
 <span style="color:blue">*Cross Device Federated learning*</span>
 In this type there are a lot of client devices that have sensitive data and one centralised server. The centralised server coordinates with the machines to train a machine learning model.
 
+ *Insert Image of Cross device*
+
 <span style="color:blue">*Cross Silo Federated learning*</span> 
 In this type the clients are huge institutions such as hospitals, banks etc which contain huge datasets of private and sensitive information. The data owners of this type prefer that the data to not leave the premise of the institution. 
 
+*Insert image of Cross silo*
+
 ### How does federated learning work
+
+*Insert Image of FL architecture*
+
+- As a first step the Data scientist has a baseline model which is sent to all clients. The baseline model is not trained on any data.
+- In the second step the model is trained on client devices which are smaller devices in case of Cross device learning and Larger institutions in case of Cross Silo learning. 
+- Then the model weights from each of these clients are sent back to the server via secure encrypted communication
+- There is a secure aggregator in the server which combines the individual results from the models and combines them to give one final model
+- The data scientist then takes the combined model and runs inference on the local test data to check the model. If satisfied with the training of the model he then deploys it. 
+
+### Code example
+
+This code is taken from [here](https://github.com/OpenMined/courses/tree/foundations-of-private-computation/federated-learning)
+
