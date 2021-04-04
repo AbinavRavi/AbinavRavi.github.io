@@ -35,16 +35,16 @@ There are mainly two types of federated learning
 <span style="color:blue">*Cross Device Federated learning*</span>
 In this type there are a lot of client devices that have sensitive data and one centralised server. The centralised server coordinates with the machines to train a machine learning model.
 
- *Insert Image of Cross device*
+ [Cross_device Federated learning, Image taken from Openmined lecture video](assets/FL/cross-device.png)
 
 <span style="color:blue">*Cross Silo Federated learning*</span> 
 In this type the clients are huge institutions such as hospitals, banks etc which contain huge datasets of private and sensitive information. The data owners of this type prefer that the data to not leave the premise of the institution. 
 
-*Insert image of Cross silo*
+[Cross-Silo Federated learning, Image taken from Openmined lecture video](assets/FL/Architecture.png)
 
 ### How does federated learning work
 
-*Insert Image of FL architecture*
+[Basic Architecture, Image taken from Openmined lecture video](assets/FL/Architecture.png)
 
 - As a first step the Data scientist has a baseline model which is sent to all clients. The baseline model is not trained on any data.
 - In the second step the model is trained on client devices which are smaller devices in case of Cross device learning and Larger institutions in case of Cross Silo learning. 
@@ -54,5 +54,7 @@ In this type the clients are huge institutions such as hospitals, banks etc whic
 
 ### Code example
 
-This code is taken from [here](https://github.com/OpenMined/courses/tree/foundations-of-private-computation/federated-learning)
+A working code example for a simple medical example with [Medical MNIST](https://www.kaggle.com/andrewmvd/medical-mnist) can be found [here](https://github.com/AbinavRavi/Federated-learning-MI)
+
+
 
