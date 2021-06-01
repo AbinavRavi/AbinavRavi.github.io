@@ -30,4 +30,6 @@ I was a master's student of Computational Science and Engineering at The Technic
 
 You can know about my current projects at [Github](https://github.com/AbinavRavi)
 
-[MY CV](../resources/Abinavresume.pdf) updated 11/2020
+I write about non-technical stuff on [Medium](https://abinavravi.medium.com/) (Not behind a payment gateway)
+
+[MY CV](../resources/Abinavresume.pdf) updated 06/2021
