@@ -18,6 +18,7 @@ permalink: /projects/
 #### Running:
 * Differential privacy and language models - OpenMined research project (*Role*:Research Engineer)
 * Building a prediction API with FastAPI and GraphQL - [Link](https://github.com/AbinavRavi/PredictionAPI)
+
 #### Completed:
 * Self Supervised Out of Distribution detection for Medical applications(Master thesis) {October 2019 - July 2020}: 
     The main aim of the thesis is to use Out of distribution detection to detect anomalous brain CT scans. Self Supervised learning is employed for efficient utilization of unlabelled data.
