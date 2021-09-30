@@ -11,13 +11,6 @@ Hi, I am Abinav Ravi venkatakrishnan, Call me Abinav.
 
 * I am interested in  Computer vision and  Medical imaging. I am also interested in generative models and trying to get a more detail understanding at the moment. 
 
-**Learn With me:**
-This is my new attempt to log in details of my learnings from various code and courses that I do across many of my favorite subjects. You can find the notes on [Blog](https://abinavravi.github.io/). 
-
-* My current learning aim is learning about federated learning and Differential privacy
-* For federated learning. I am following papers and using Pysyft to implement some stuff (Demo Coming soon)
-* I am following the course by Prof.Gautam Kamath on [Algorithms for Private data analysis](http://www.gautamkamath.com/CS860-fa2020.html)
-
 I was a master's student of Computational Science and Engineering at The Technical University of Munich. 
 
 * Completed Master thesis on [Self Supervised Out of Distribution detection for Medical application](../resources/thesis.pdf) under the supervision of [Dr.Kim SeongTae](http://campar.in.tum.de/Main/SeongTae) at [CAMPAR](http://campar.in.tum.de/Chair/ResearchGroupCamp).  
@@ -32,4 +25,4 @@ You can know about my current projects at [Github](https://github.com/AbinavRavi
 
 I write about non-technical stuff on [Medium](https://abinavravi.medium.com/) (Not behind a payment gateway)
 
-[MY CV](../resources/Abinavresume.pdf) updated 06/2021
+[MY CV](../resources/Abinavresume.pdf) updated 09/2021
