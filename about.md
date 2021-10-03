@@ -7,10 +7,6 @@ permalink: /about/
 ![Abinav R](../resources/me.jpg){:style="width: 200px; overflow: hidden; border-radius: 50%; float: right; padding-left: 20px"}
 Hi, I am Abinav Ravi venkatakrishnan, Call me Abinav. 
 
-* I am passionate about machine learning since it is all about optimization something every human strives for in their life.
-
-* I am interested in  Computer vision and  Medical imaging. I am also interested in generative models and trying to get a more detail understanding at the moment. 
-
 I was a master's student of Computational Science and Engineering at The Technical University of Munich. 
 
 * Completed Master thesis on [Self Supervised Out of Distribution detection for Medical application](../resources/thesis.pdf) under the supervision of [Dr.Kim SeongTae](http://campar.in.tum.de/Main/SeongTae) at [CAMPAR](http://campar.in.tum.de/Chair/ResearchGroupCamp).  
@@ -25,4 +21,4 @@ You can know about my current projects at [Github](https://github.com/AbinavRavi
 
 I write about non-technical stuff on [Medium](https://abinavravi.medium.com/) (Not behind a payment gateway)
 
-[MY CV](../resources/Abinavresume.pdf) updated 09/2021
+[MY CV](../resources/Abinavresume.pdf) updated 10/2021
