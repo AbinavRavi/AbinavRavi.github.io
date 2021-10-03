@@ -21,4 +21,16 @@ check if it is installed by ``` zsh --version```
 Though the zsh is installed we need to change the shell from bash to zsh, we can do that by
 ``` 
 chsh -s $(which zsh)
+
 ```
+### Step3: Setup .zshrc
+ If you are using zsh for the first time there will be no file called .zshrc in the ```/home/``` folder so create one and copy all contents of ```~/.bashrc``` to ```~/.zshrc```
+
+### Step4: Setup a theme 
+I tried different themes and came to a conclusion that agnoster is the best theme for my usage it is clean and shows relevant information in a clean way. But since I am no evangelist I would direct you to many tutorials which suggests different fonts and themes here. For choosing agnoster it is as simple as selecting 
+
+```
+ZSH_THEME="agnoster"
+```
+
+
