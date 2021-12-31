@@ -9,6 +9,9 @@ categories: Engineering
 
 Over the past year in my job I learnt a lot in my job as a data scientist at deepc gmbh. Some of which I have tried to generalise and document in the coming series. Please find the list of posts and topics in the roadmap below
 
-![Roadmap of the Series](ml/Series1/Blog_Series_1.jpg)
+<p>
+    <img src="ml/Series1/Blog_Series_1.jpg" width="220" height="240" />
+</p>
+<!-- ![Roadmap of the Series](ml/Series1/Blog_Series_1.jpg) -->
 
 The idea is to take a model to production quality. This is a general outline of the process of making a model into a microservice. 
