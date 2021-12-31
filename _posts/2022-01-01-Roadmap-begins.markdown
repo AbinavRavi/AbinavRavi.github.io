@@ -21,4 +21,4 @@ The post will be starting from
 5. Dockerizing the Application with the inference as endpoint
 6. Deploying using kubernetes and Documentation of the microservice. 
 
-Please feel free to comment. 
+Please Like, Comment and  share the blog.  
