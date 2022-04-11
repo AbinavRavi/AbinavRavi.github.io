@@ -26,8 +26,39 @@ Until very recent past and without specific tools it is difficult to use jupyter
 
 # Focus of this post
 
-In this post we will cover establishing some basic components apart from refactoring such as pre-commit which imposes a strict discipline and styling requirements to commit code. 
+In this post we will focus on some basic components in setting up the repo
+- Structuring the scripts
+- Pre-commit for ensuring style and complexity maintanence
+- setting up a virtual environment with poetry
+- config file with yaml
 
+# Structure of the repository
+I usually structure the repo in this way and would continue to do so, if you have a better way to structure the repository better please comment with how you do it. 
+
+```
+|_readme.md
+|_pyproject.toml
+|_poetry.lock
+|_.pre-commit.yaml
+|_ci/
+|  |_ci.yml
+|_model/
+|  |_dataloader.py
+|  |_network.py
+|  |_utils.py
+|  |_train.py
+|_src/
+|  |_inference.py
+|  |_evaluate.py
+|  |_server
+|    |_server.py
+|    |_schema.py
+|  |_run_server.py
+|  |_config.py
+|_Makefile
+|_scripts/
+|_
+```
 
 
 # What is Linting
