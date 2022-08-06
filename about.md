@@ -16,6 +16,7 @@ Hi, I am Abinav Ravi venkatakrishnan, Call me Abinav.
 * I worked with [Suprosanna](http://campar.in.tum.de/Main/SuprosannaShit) in [Image Based Biomedical Modelling](http://campar.in.tum.de/Chair/ResearchIBBM) lab on 'Solving Inverse Problem in PDE using deep learning'.
 
 ## Work Experience
+* Machine learning engineer (MLE) at Machine Learning Reply GmbH (June 2022 - Present)
 * Data Scientist at [Deepc](http://deepc.ai/) (Oct 2020 - Mar 2022)
 * Junior Data Scientist at [Deepc](http://deepc.ai/) (Jun 2019 - Oct 2020)
 * Working student-Data Science at [The Mobility House](https://www.mobilityhouse.com/int_en/) (Oct 2018 - Mar 2019)
@@ -24,7 +25,6 @@ Hi, I am Abinav Ravi venkatakrishnan, Call me Abinav.
 You can know about my current projects at [Github](https://github.com/AbinavRavi)
 
 ## Blog
-I write on [Medium](https://abinavravi.medium.com/) (Not behind a payment gateway) and [hashnode](https://abinavravi.hashnode.dev/)
-
+I write on [Medium](https://abinavravi.medium.com/) (Not behind a payment gateway)
 ## CV
 [MY CV](../resources/Abinavresume.pdf) updated 10/2021
