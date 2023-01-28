@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Terminal Makeover in Ubuntu 20.04"
+title:  "Terminal Makeover"
 date:   2023-01-28 18:45:00 +0100
 comments: True
 share: True
