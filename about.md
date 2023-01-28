@@ -20,7 +20,8 @@ Hi, I am Abinav Ravi venkatakrishnan, Call me Abinav.
 * Data Scientist at [Deepc](http://deepc.ai/) (Oct 2020 - Mar 2022)
 * Junior Data Scientist at [Deepc](http://deepc.ai/) (Jun 2019 - Oct 2020)
 * Working student-Data Science at [The Mobility House](https://www.mobilityhouse.com/int_en/) (Oct 2018 - Mar 2019)
-* Writing team lead at [Openmined](https://blog.openmined.org/) (July 2021 - Present)
+* Writing team lead at [Openmined](https://blog.openmined.org/) (July 2021 - Nov 2022)
+* Research Engineer at [Openmined](https://blog.openmined.org/)(April 2020 - July 2021)
 
 You can know about my current projects at [Github](https://github.com/AbinavRavi)
 
