@@ -16,8 +16,7 @@ permalink: /projects/
 ### Projects
 
 #### Running:
-* Differential privacy and language models - OpenMined research project (*Role*:Research Engineer)
-* Building a prediction API with FastAPI and GraphQL - [Link](https://github.com/AbinavRavi/PredictionAPI)
+* Learning about rust and creating some basic applications (Links will be updated later)
 
 #### Completed:
 * Self Supervised Out of Distribution detection for Medical applications(Master thesis) {October 2019 - July 2020}: 
