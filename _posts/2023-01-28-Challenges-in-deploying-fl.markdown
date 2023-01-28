@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Challenges in Deploying Federated Learning Models"
-date:   2023-01-28 18:45:00 +0100
+date:   2023-01-27 18:45:00 +0100
 comments: True
 share: True
 categories: Machine learning
