@@ -4,7 +4,7 @@ title:  "Terminal Makeover in Ubuntu 20.04"
 date:   2023-01-28 18:45:00 +0100
 comments: True
 share: True
-categories: Machine learning
+categories: Tools
 ---
 
 Recently I had a talk with a senior engineer from my organisation and he was an advocate for better looking terminal with oh-my-zsh and themes. His argument was Bash terminals are boring and since he was a nvim user he wanted to give the terminal a makeover. So I came under the spell of his good looking terminals and decided to experiment by changing terminals in my personal notebook which runs an Ubuntu 20.04. Here are the steps that I did and the way you can replicate them for your terminal too. 
