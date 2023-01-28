@@ -7,7 +7,8 @@ share: True
 categories: Machine learning
 ---
 
- # Difference between Federated learning and Normal Machine learning
+# Difference between Federated learning and Normal Machine learning
+
 In normal machine Learning the data resides in a single source or is aggregated into a single source by certain ETL (extract, load and transform operations) by data engineers from multiple databases and then used to train a machine learning model.
 
 In Federated learning the data doesn't leave the source of origin. There is a central server which is owned by Data scientists and the data sources are considered clients. Machine learning is done by decentralized communication and collecting only relevant model updates in the central server.
