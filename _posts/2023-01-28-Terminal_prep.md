@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Terminal Makeover in Ubuntu 20.04"
-date:   2021-09-25 18:45:00 +0100
+date:   2023-01-28 18:45:00 +0100
 comments: True
 share: True
 categories: Machine learning
