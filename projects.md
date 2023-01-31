@@ -15,8 +15,14 @@ permalink: /projects/
 
 ### Projects
 
+#### Upcoming:
+
+- Testing for Machine Learning applications
+- Continuous Improvement 
+- Data Version Control
+
 #### Running:
-* Learning about rust and creating some basic applications (Links will be updated later)
+* Learning basic concepts of rust by designing a simple web service (Blog and code coming soon)
 
 #### Completed:
 * Self Supervised Out of Distribution detection for Medical applications(Master thesis) {October 2019 - July 2020}: 
