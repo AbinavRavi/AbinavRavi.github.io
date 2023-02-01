@@ -21,4 +21,10 @@ So I thought why not code a simple service which will act as the backend for log
 
 ## Concepts Learnt 
 
+### Struct and Impl
 
+Struct is a datatype which can be customized as per our needs, In rust we can implement methods associated with each of the struct and then use it for providing basic properties of the struct. It is very similar to writing a class in other OOP languages, where a method can be associated with an object. 
+
+### Crates and Modules
+
+Coming from a python background this was one of the early things which confused me. How to create modular code and use the functions. 
