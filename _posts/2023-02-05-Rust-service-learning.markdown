@@ -13,7 +13,9 @@ So I thought why not code a simple service which will act as the backend for log
 
 # Design of Service
 
-## Workflow
+This is a basic understanding of how a login service works, I would like to get some feedback on the design and how things can be improved. 
+
+![Login Workflow](../ml/Login/login-workflow.jpg)
 
 ## Backend routes
 
