@@ -12,7 +12,7 @@ Machine Learning or Deep Learning can be viewed as function approximation based 
 
 A simple polynomial curve fitting example is shown below. The idea of machine learning is to achieve something similar to left bottom figure so that there is a little bit of generalization or extrapolation that can be done if a sample comes from similar distribution. 
 
-![Function Approximation](../assets/back2basics/curve_fitting.jpeg) [1]
+![Function Approximation]({{site.url}}{{site.baseurl}}/assets/back2basics/curve_fitting.jpeg) [1]
  
 In case of the first diagram
 ### Loss Function
