@@ -6,7 +6,7 @@ comments: True
 share: True
 categories: Machine learning
 ---
-## AIM OF MACHINE LEARNING
+## Goal of Machine Learning
 
 Machine Learning or Deep Learning can be viewed as function approximation based on data. What this means in simpler terms is that given a set of data points the aim is to get a function that can represent each of the data point very well and this function generalizes across many such similar data points. 
 
@@ -15,18 +15,18 @@ A simple polynomial curve fitting example is shown below. The idea of machine le
 ![Function Approximation](../ml/back2basics/curve_fitting.jpeg) [1]
  
 In case of the first diagram
-### LOSS FUNCTION
+### Loss Function
 Loss function is the function that can depict the error between the predicted function value at a data point and the actual value. Loss functions are measured over single datum points. 
 
-### COST FUNCTION
+### Cost Function
 Cost function also denotes the error between predicted value and actual value but for a batch of data values. 
 
-### MATHEMATICAL PROPERTIES OF LOSS FUNCTION
+### Mathematical properties of Loss Function
 For a loss function these mathematical properties are important
 
 - Differentiable in real domain completely
 - Possibly convex to ensure that there is a minimum, but in case of deep learning the loss function landscape will generally not be convex and we will have to do with the local minimum.
-### MOST COMMON LOSS FUNCTIONS 
+### Common Loss Functions
 
 - **Cross Entropy Loss**
 
