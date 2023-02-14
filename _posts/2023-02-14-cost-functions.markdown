@@ -26,6 +26,7 @@ For a loss function these mathematical properties are important
 
 - Differentiable in real domain completely
 - Possibly convex to ensure that there is a minimum, but in case of deep learning the loss function landscape will generally not be convex and we will have to do with the local minimum.
+
 ### Common Loss Functions
 
 - **Cross Entropy Loss**
