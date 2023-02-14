@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cost Functions and Loss Functions in Machine Learning"
-date:   2023-02-14 22:45:00 +0100
+date:   2023-02-14 18:45:00 +0100
 comments: True
 share: True
 categories: Machine learning
