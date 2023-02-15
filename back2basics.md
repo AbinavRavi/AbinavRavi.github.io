@@ -11,3 +11,4 @@ This will be a series of posts on basics of Machine Learning, Software engineeri
 # Basics of Machine Learning and Deep learning
 
 1. [Loss Functions](./_posts/2023-02-14-cost-functions.markdown)
+2. [Optimization Algorithms]
