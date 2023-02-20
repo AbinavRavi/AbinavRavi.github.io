@@ -25,12 +25,12 @@ If we work in an industry setting we need private packages for using as librarie
 4. Import the dependencies for the package by using ```poetry add <package name>```
 5. To ensure that package is maintained properly write tests to keep tabs on functionality
 6. Once everything is done then run the following three commands in sequence to build and push the package to gitlab repository
-    - poetry config repositories.<variable_name> https://gitlab.com/api/v4/projects/<project_id>/packages/pypi
-    - poetry build
-    - poetry publish --repository <variable_name> -u <gitlab_deploy_token_name> -p <gitlab_deploy_token>
+    - ```poetry config repositories.<variable_name> https://gitlab.com/api/v4/projects/<project_id>/packages/pypi```
+    - ```poetry build```
+    - ```poetry publish --repository <variable_name> -u <gitlab_deploy_token_name> -p <gitlab_deploy_token>```
 
 Now the pypi package is available for internal usage and can be installed by 
- * pip install <package_name> --no-deps --index-url https://<gitlab_deploy_token_name>:<gitlab_deploy_token>@gitlab.example.com/api/v4/projects/<project_id>/packages/pypi/simple
+ * ```pip install <package_name> --no-deps --index-url https://<gitlab_deploy_token_name>:<gitlab_deploy_token>@gitlab.example.com/api/v4/projects/<project_id>/packages/pypi/simple```
 
 ## GitHub 
 I would like to thank my friend Abhijeet Parida for providing a template with a very beautiful readme to accomplish this task in [Github](https://github.com/a-parida12/poetry_pypi_template)
