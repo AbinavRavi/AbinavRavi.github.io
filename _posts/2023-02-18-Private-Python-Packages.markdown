@@ -35,6 +35,9 @@ Now the pypi package is available for internal usage and can be installed by
 ## GitHub 
 I would like to thank my friend Abhijeet Parida for providing a template with a very beautiful readme to accomplish this task in [Github](https://github.com/a-parida12/poetry_pypi_template)
 
+## Extensions
+Ideally should use a ci pipeline to create the packages so that there can be a versioning that can be automatically done
+
 ## References
 
 1. https://docs.gitlab.com/ee/user/packages/pypi_repository/
