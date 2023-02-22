@@ -47,9 +47,9 @@ def gradient_descent(start, gradient, learn_rate, max_iter, tol=0.01):
   return steps, x
 ```
 The code is from [this blog](https://towardsdatascience.com/gradient-descent-algorithm-a-deep-dive-cf04e8115f21#:~:text=Gradient%20descent%20(GD)%20is%20an,e.g.%20in%20a%20linear%20regression).)
-### Disadvantage in terms of Machine Learning.
+### Disadvantage.
 
-Though the approach is quite clean cut, since we are dealing with a large number of samples the calculation of the next step after going through all samples can be quite time consuming. This is where there is a need for stochasticity and working in smaller batches and iterations. 
+Though the approach is quite clean cut, since we are dealing with a large number of samples the calculation of the next step after going through all samples is very computation intensive. This is where there is a need for stochasticity and working in smaller batches and iterations. 
 
 
 ## Stochastic Gradient Descent
