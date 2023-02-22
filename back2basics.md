@@ -20,3 +20,9 @@ This will be a series of posts on basics of Machine Learning, Software engineeri
 # Devops 
 
 1. Basics of CI/CD 
+
+# Engineering tricks and tips
+
+1. [Private Package](./_posts/2023-02-18-Private-Python-Packages.markdown)
+2. [Terminal Setup](./_posts/2023-01-28-Terminal-prep.markdown)
+3. [Environment Setup](./_posts/2021-02-08-Environment.markdown)
