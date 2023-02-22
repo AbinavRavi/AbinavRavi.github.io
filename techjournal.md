@@ -19,7 +19,7 @@ This will be a series of posts on basics of Machine Learning, Software engineeri
 
 # Devops 
 
-1. Basics of CI/CD 
+1. Basics of CI/CD (coming soon with an example)
 
 # Engineering tricks and tips
 
