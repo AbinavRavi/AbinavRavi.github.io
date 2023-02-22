@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Back To Basics 
-permalink: /back2basics/
+title: Tech Journal
+permalink: /techjournal/
 ---
 
 
