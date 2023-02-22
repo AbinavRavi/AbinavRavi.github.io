@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Notes 
+title: Back To Basics 
 permalink: /back2basics/
 ---
 
