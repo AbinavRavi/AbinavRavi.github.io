@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Back To Basics
+title: Notes 
 permalink: /back2basics/
 ---
 
@@ -8,7 +8,15 @@ permalink: /back2basics/
 
 This will be a series of posts on basics of Machine Learning, Software engineering, Data engineering and Computer science. Whatever tickles my fancy :)
 
-# Basics of Machine Learning and Deep learning
+# Machine Learning and Deep learning
 
 1. [Loss Functions](./_posts/2023-02-14-cost-functions.markdown)
 2. [Optimization Algorithms](./_posts/2023-02-15-Optimization-Algos.markdown)
+
+# Programming
+
+1. Async Programming (coming soon)
+
+# Devops 
+
+1. Basics of CI/CD 
