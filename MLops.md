@@ -4,11 +4,4 @@ title: MLOps
 permalink: /MLOps/
 ---
 
-# COMING SOON
-
-Concepts, ideas and discussion in taking the Machine Learning models to production. 
-Example of concepts covered
-
-1. Model management
-2. Model deployment
-3. Model monitoring etc
+1. [What is MLOps - An introduction into the world of deployment of Machine learning models](./_posts/2023-4-4-MLOps1.markdown)
