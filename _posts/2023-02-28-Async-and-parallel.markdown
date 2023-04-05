@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Async programming and parallel programming"
-date:   2023-02-28 00:45:00 +0100
+date:   2023-04-28 00:45:00 +0100
 comments: True
 share: True
 categories: Engineering
