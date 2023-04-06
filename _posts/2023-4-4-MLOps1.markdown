@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is MLOps?"
-date:   2023-04-04 00:45:00 +0200
+date:   2023-04-09 00:45:00 +0200
 comments: True
 share: True
 categories: Machine Learning
