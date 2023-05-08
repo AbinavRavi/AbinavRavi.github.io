@@ -16,6 +16,7 @@ This will be a series of posts on basics of Machine Learning, Software engineeri
 # Programming
 
 1. Async Programming (coming soon)
+2. [Decorator pattern python](./_posts/2023-04-09-Decorator-pattern.markdown)
 
 # Devops 
 

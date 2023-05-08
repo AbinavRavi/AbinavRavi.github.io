@@ -29,4 +29,4 @@ You can know about my current projects at [Github](https://github.com/AbinavRavi
 ## Blog
 I write on [Medium](https://abinavravi.medium.com/) (Not behind a payment gateway)
 ## CV
-[MY CV](../resources/Abinavresume.pdf) updated 01/2023
+[MY CV](../resources/Abinavresume.pdf) updated 05/2023
