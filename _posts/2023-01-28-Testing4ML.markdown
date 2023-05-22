@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Testing for Machine Learning applications"
-date:   2023-04-27 18:45:00 +0100
-comments: True
-share: True
-categories: Machine learning
----
