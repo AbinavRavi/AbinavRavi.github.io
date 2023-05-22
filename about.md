@@ -7,6 +7,18 @@ permalink: /about/
 ![Abinav R](../resources/me.jpg){:style="width: 200px; overflow: hidden; border-radius: 50%; float: right; padding-left: 20px"}
 Hi, I am Abinav Ravi venkatakrishnan, Call me Abinav. 
 
+## What do I do for work
+My job is to run convert mathematical models in code to production grade software. What are these mathematical models in code? These are what people nowadays call **AI**. I have experience of building and making them available to users for about 4 years now across organizations. 
+
+## What skills do I have
+- Programming Languages - Python(Advanced), Rust(Intermediate), C(Intermediate), bash(Intermediate),Go (basic), Javascript(basic),Julia
+- Data Science tools -Numpy, Scipy, matplotlib, seaborn, scikit learn, scikit image, Pytorch, Pandas, OpenCV, Flask, PySyft, Plotly Dash,PySpark, Tensorflow
+- Database PostrgreSQL, MongoDB, DynamoDB
+- DevOps/MLOps Tool Docker, Kubernetes, Gitlab runner, Jenkins, Terraform, MLFlow, feast (fea-
+ture store).
+- Cloud Platforms - AWS (S3 and EC2, ECR, API Gateway, Lambda, DynamoDB, IAM), GCP
+- LLM tools OpenAI API, Huggingface API, Guardrails, LMQL, jsonformer
+
 ## Work Experience
 * Machine learning engineer (MLE) at Machine Learning Reply GmbH (June 2022 - Present)
 * Data Scientist at [Deepc](http://deepc.ai/) (Oct 2020 - Mar 2022)
