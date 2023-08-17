@@ -20,7 +20,7 @@ ture store).
 - LLM tools OpenAI API, Huggingface API, Guardrails, LMQL, jsonformer
 
 ## Work Experience
-* Machine learning engineer (MLE) at Machine Learning Reply GmbH (June 2022 - Present)
+* Machine learning engineer (MLE) at Machine Learning Reply GmbH (June 2022 - July 2023)
 * Data Scientist at [Deepc](http://deepc.ai/) (Oct 2020 - Mar 2022)
 * Junior Data Scientist at [Deepc](http://deepc.ai/) (Jun 2019 - Oct 2020)
 * Working student-Data Science at [The Mobility House](https://www.mobilityhouse.com/int_en/) (Oct 2018 - Mar 2019)
