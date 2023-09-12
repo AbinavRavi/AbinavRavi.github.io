@@ -26,7 +26,16 @@ The script should
 3. Create a pipeline that does this in a sequence.
 
 ## Solution
+We are going to build the entire thing using prefect and python. I tried my hand at airflow but it just seemed so complex with binaries etc that prefect documentation seemed like a breeze. 
 
+### 0. Install prefect
+Install this inside a vitual environment
+
+```
+pip install -U prefect
+```
+
+## Code snippets
 ### 1. Create a function that fetches data from API
 
 Since the API call that I have to make is a post API call, the input data to be sent in the request is stored as a modifiable content in a json and then loaded during the task phase. 
