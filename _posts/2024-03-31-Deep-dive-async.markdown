@@ -16,7 +16,7 @@ In this post I will go on a journey where we assume that we know about synchrono
 In the world of application development which involves internet, there are basically two components one is the frontend/Client which is accessible through a browser or app where people can click or enter data and perform some actions, which is then sent across to the server (some form of a computer) that performs the logical operations on it. The data is relayed from client to server through a secure network connection.
 
 
-![A simple example of Client Server Model](../assets/CSarch.webp)
+![A simple example of Client Server Model](../assets/CSarch.jpeg)
 
 As consumer we would want our actions also technically known as requests to be executed as fast as possible which is the right of the customer.
 
@@ -48,7 +48,7 @@ The request-reply asynchronous pattern allows a client to send a request to a se
 This pattern is generally implemented using async/await framework and the coroutines in languages such as python.
 
 
-![Source: https://learn.microsoft.com/en-us/azure/architecture/patterns/async-request-reply](../assets/reqrep_pattern.webp)
+![Source: https://learn.microsoft.com/en-us/azure/architecture/patterns/async-request-reply](../assets/reqrep_pattern.jpeg)
 
 ### Publish Subscribe Pattern
 The Publish-Subscribe pattern also known as pub sub is an alternative pattern of asynchronous communication. The advantage of pub sub over request reply is that pub sub patterns allows for a loose coupling between publishers and subscribers.
@@ -58,7 +58,7 @@ The loose coupling is established by using a message broker component which uses
 Some common implementations are message queues and event buses. Some of the open source implementations for usage is the RabbitMQ, Apache Kafka.
 
 
-![Source: https://learn.microsoft.com/en-us/azure/architecture/patterns/publisher-subscriber](../assets/pubsub_pattern.webp)
+![Source: https://learn.microsoft.com/en-us/azure/architecture/patterns/publisher-subscriber](../assets/pubsub_pattern.jpeg)
 
 ### Fire and Forget Pattern
 The fire-and-forget pattern is a simple approach to asynchronous communication where a sender transmits a message without waiting for a response or confirmation. This pattern prioritizes sending the message quickly and efficiently, and the sender does not track its delivery status.
@@ -77,7 +77,7 @@ This loose coupling and asynchronous nature make event-driven systems highly sca
 The event-driven pattern is well-suited for microservices architectures, real-time applications, and scenarios where components need to react to changes in the system without tight dependencies on each other.
 
 
-![An example of event driven architecture Source: https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/february/azure-event-driven-architecture-in-the-cloud-with-azure-event-grid](../assets/event_driven_pattern.webp)
+![An example of event driven architecture Source: https://learn.microsoft.com/en-us/archive/msdn-magazine/2018/february/azure-event-driven-architecture-in-the-cloud-with-azure-event-grid](../assets/event_driven_pattern.jpeg)
 
 ### Websockets
 WebSockets, the persistent two-way communication channels for web applications, thrive alongside asynchronous programming patterns. Here’s how they work together:
