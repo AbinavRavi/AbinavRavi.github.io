@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ![Abinav R](../resources/me.jpg){:style="width: 200px; overflow: hidden; border-radius: 50%; float: right; padding-left: 20px"}
-Hi, I am Abinav Ravi venkatakrishnan, Call me Abinav. 
+Hi, I am Abinav. 
 
 ## What do I do for work
 My job is to run convert mathematical models in code to production grade software. What are these mathematical models in code? These are what people nowadays call **AI**. I have experience of building and making them available to users for about 4 years now across organizations. 
@@ -20,9 +20,10 @@ ture store).
 - LLM tools OpenAI API, Huggingface API, Guardrails, LMQL, jsonformer
 
 ## Work Experience
-* Machine learning engineer (MLE) at Machine Learning Reply GmbH (June 2022 - July 2023)
-* Data Scientist at [Deepc](http://deepc.ai/) (Oct 2020 - Mar 2022)
-* Junior Data Scientist at [Deepc](http://deepc.ai/) (Jun 2019 - Oct 2020)
+* Machine Learning Engineer (MLE) at [Turboml Inc](turboml.com) (Nov 2023 - Mar 2024)
+* Machine Learning Engineer (MLE) at Machine Learning Reply GmbH (June 2022 - July 2023)
+* Machine Learning Engineer at [Deepc](http://deepc.ai/) (Oct 2020 - Mar 2022)
+* Junior Machine Learning Engineer at [Deepc](http://deepc.ai/) (Jun 2019 - Oct 2020)
 * Working student-Data Science at [The Mobility House](https://www.mobilityhouse.com/int_en/) (Oct 2018 - Mar 2019)
 * Writing team lead at [Openmined](https://blog.openmined.org/) (July 2021 - Nov 2022)
 * Research Engineer at [Openmined](https://blog.openmined.org/)(April 2020 - July 2021)

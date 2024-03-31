@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Abinav Ravi Venkatakrishnan
+title: Abinav R
 email: abinav.rvkrish@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Machine Learning operations, Software Engg for Machine Learning
@@ -32,7 +32,6 @@ defaults:
 
 twitter_username: AbinavRavi
 github_username:  AbinavRavi
-linkedin_username: abinav-ravi-venkatakrishnan
-
+linkedin_username: abinavr
 # Build settings
 markdown: kramdown
