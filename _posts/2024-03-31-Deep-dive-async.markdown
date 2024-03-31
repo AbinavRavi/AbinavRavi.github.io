@@ -28,7 +28,7 @@ This is why Synchronous communication can be disadvantageous for dynamic and sca
 - Inefficient use of compute power
 - Scalability bottlenecks — There is only so much machines that can be provisioned at a time
 
-## Asynchronous Communication
+### Asynchronous Communication
 In an asynchronous communication pattern, the server does not immediately return a response. Instead, it initiates the request and allows the client to continue execution without waiting. The processing can then happen concurrently on the server, and the client receives a notification or the processed information at a later date.
 
 The detail lies in the implementation and if incorrectly implemented async await operations can be slower than synchronous communication patterns.
