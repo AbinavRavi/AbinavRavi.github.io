@@ -20,10 +20,10 @@ ture store).
 - LLM tools OpenAI API, Huggingface API, Guardrails, LMQL, jsonformer
 
 ## Work Experience
-* Machine Learning Engineer (MLE) at [Turboml Inc](turboml.com) (Nov 2023 - Mar 2024)
+* Machine Learning Engineer (MLE) at [Turboml Inc](https://turboml.com) (Nov 2023 - Mar 2024)
 * Machine Learning Engineer (MLE) at Machine Learning Reply GmbH (June 2022 - July 2023)
-* Machine Learning Engineer at [Deepc](http://deepc.ai/) (Oct 2020 - Mar 2022)
-* Junior Machine Learning Engineer at [Deepc](http://deepc.ai/) (Jun 2019 - Oct 2020)
+* Machine Learning Engineer at [Deepc](https://deepc.ai/) (Oct 2020 - Mar 2022)
+* Junior Machine Learning Engineer at [Deepc](https://deepc.ai/) (Jun 2019 - Oct 2020)
 * Working student-Data Science at [The Mobility House](https://www.mobilityhouse.com/int_en/) (Oct 2018 - Mar 2019)
 * Writing team lead at [Openmined](https://blog.openmined.org/) (July 2021 - Nov 2022)
 * Research Engineer at [Openmined](https://blog.openmined.org/)(April 2020 - July 2021)
