@@ -16,7 +16,7 @@ This will be a series of posts on basics of Machine Learning, Software engineeri
 # Programming
 
 1. [Async Programming patterns](./_posts/2024-03-31-Deep-dive-async.markdown)
-2. [Decorator pattern python](./_posts/2023-04-09-Decorator-pattern.markdown)
+2. [My first Prefect Pipeline](./_posts/2023-09-15-My-First-ETL.markdown)
 
 # Devops 
 
