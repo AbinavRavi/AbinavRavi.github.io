@@ -20,7 +20,8 @@ ture store).
 - LLM tools OpenAI API, Huggingface API, Guardrails, LMQL, jsonformer
 
 ## Work Experience
-* Machine Learning Engineer (MLE) at [Turboml Inc](https://turboml.com) (Nov 2023 - Mar 2024)
+* Exciting stuff coming soon (May 2024 - )
+* Machine Learning Engineer (MLE) at [Turboml Inc](https://turboml.com) (Nov 2023 - April 2024)
 * Machine Learning Engineer (MLE) at Machine Learning Reply GmbH (June 2022 - July 2023)
 * Machine Learning Engineer at [Deepc](https://deepc.ai/) (Oct 2020 - Mar 2022)
 * Junior Machine Learning Engineer at [Deepc](https://deepc.ai/) (Jun 2019 - Oct 2020)
