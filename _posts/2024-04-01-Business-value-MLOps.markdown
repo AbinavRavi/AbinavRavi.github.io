@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Deliver Business value with AI systems"
 subtitle: A step by step strategy to deploying machine learning models and building a machine learning platform
-date:   2024-04-10 12:45:00 +0530
+date:   2024-04-13 12:45:00 +0530
 comments: True
 share: True
 categories: Machine learning Operations
