@@ -11,16 +11,16 @@ Hi, I am Abinav.
 My job is to run convert mathematical models in code to production grade software. What are these mathematical models in code? These are what people nowadays call **AI**. I have experience of building and making them available to users for about 4 years now across organizations. 
 
 ## What skills do I have
-- Programming Languages - Python(Advanced), Rust(Intermediate), C(Intermediate), bash(Intermediate),Go (basic), Javascript(basic),Julia
+- Programming Languages - Python(Advanced), Rust(Intermediate), Go(Intermediate), C(Intermediate), bash(Intermediate), Javascript(basic),Julia, Mojo
 - Data Science tools -Numpy, Scipy, matplotlib, seaborn, scikit learn, scikit image, Pytorch, Pandas, OpenCV, Flask, PySyft, Plotly Dash,PySpark, Tensorflow
-- Database PostrgreSQL, MongoDB, DynamoDB
+- Database PostrgreSQL, MongoDB, DynamoDB, DuckDB, SQLite
 - DevOps/MLOps Tool Docker, Kubernetes, Gitlab runner, Jenkins, Terraform, MLFlow, feast (fea-
-ture store).
-- Cloud Platforms - AWS (S3 and EC2, ECR, API Gateway, Lambda, DynamoDB, IAM), GCP
-- LLM tools OpenAI API, Huggingface API, Guardrails, LMQL, jsonformer
+ture store), Kubeflow, Flyte.
+- Cloud Platforms - AWS (S3 and EC2, ECR, API Gateway, Lambda, DynamoDB, IAM), GCP (Cloud Composer, GCS, SecretManager, VertexAI)
+- LLM tools OpenAI API, Huggingface APIs, Instructor, Ollama, deepeval, Gemini API
 
 ## Work Experience
-* Exciting stuff coming soon (May 2024 - )
+* Engineer III Machine Learning (MLOps) at [ACV Auctions](https://www.acvauctions.com/careers-acv-india) (May 2024 - Present)
 * Machine Learning Engineer (MLE) at [Turboml Inc](https://turboml.com) (Nov 2023 - April 2024)
 * Machine Learning Engineer (MLE) at Machine Learning Reply GmbH (June 2022 - July 2023)
 * Machine Learning Engineer at [Deepc](https://deepc.ai/) (Oct 2020 - Mar 2022)
