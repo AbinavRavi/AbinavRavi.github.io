@@ -20,7 +20,8 @@ ture store), Kubeflow, Flyte.
 - LLM tools OpenAI API, Huggingface APIs, Instructor, Ollama, deepeval, Gemini API
 
 ## Work Experience
-* Engineer III Machine Learning (MLOps) at [ACV Auctions](https://www.acvauctions.com/careers-acv-india) (May 2024 - Present)
+* Senior Engineer Machine Learning (MLOps) at [ACV Auctions](https://www.acvauctions.com/careers-acv-india) (June 2025 - Present)
+* Engineer III Machine Learning (MLOps) at [ACV Auctions](https://www.acvauctions.com/careers-acv-india) (May 2024 - June 2025)
 * Machine Learning Engineer (MLE) at [Turboml Inc](https://turboml.com) (Nov 2023 - April 2024)
 * Machine Learning Engineer (MLE) at Machine Learning Reply GmbH (June 2022 - July 2023)
 * Machine Learning Engineer at [Deepc](https://deepc.ai/) (Oct 2020 - Mar 2022)
