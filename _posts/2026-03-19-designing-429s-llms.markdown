@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Designing for 429: Why LLM Rate Limits Are a Systems Problem?"
-date:   2024-01-13 12:45:00 +0530
+date:   2026-03-19 12:45:00 +0530
 comments: True
 share: True
 categories: Programming AI
