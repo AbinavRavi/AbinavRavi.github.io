@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Professional Principles I live by"
+title:  "Principles I work by"
 date:   2026-06-06 10:45:00 +0530
 comments: True
 share: True
