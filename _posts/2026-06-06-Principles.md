@@ -13,7 +13,7 @@ This is a living document, and I will continue to refine and expand these princi
 
 ## Extreme Ownership
 
-To me, Extreme Ownership means being entirely accountable for outcomes, not just tasks. If a critical initiative lacks direction or needs a leader, I will step up, take ownership, and see it through to completion. Moving the needle means closing the loop—no half-measures, no dropped balls.
+To me, Extreme Ownership means being entirely accountable for outcomes, not just tasks. If a critical initiative lacks direction or needs a leader, I will step up, take ownership, and see it through to completion. Moving the needle means closing the loop, no half-measures, no dropped balls.
 
 ## Collaborate, Don't Compete
 
