@@ -24,7 +24,7 @@ Any process must have the two conditions for theory of constraints to apply to i
 1. It must be a sequential process
 2. There must be statistical fluctuations between each of the steps
 
-![Conditions for constraints](../assets/TOC_1.jpg)
+![Conditions for constraints](</assets/TOC_1.jpg>)
 
 ## Theory of Constraints 
 
@@ -41,7 +41,7 @@ While agents can churn code and even do code reviews to a certain extent the bot
 
 There are basically 5 steps that one must follow to exploit the existing bottleneck
 
-![5 Steps](../assets/TOC_2.png)
+![5 Steps](</assets/TOC_2.png>)
 
 1. Identify the system constraint
 2. Exploit the system constraint 
