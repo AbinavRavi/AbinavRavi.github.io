@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inference Engineering 1 - Dynamic Batching: Why your Model isn't the same as a CRUD application"
+title:  "Inference Engineering 1 - Dynamic Batching"
 date:   2026-09-14 00:45:00 +0530
 comments: True
 share: True
