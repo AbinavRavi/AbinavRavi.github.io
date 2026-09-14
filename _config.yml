@@ -29,6 +29,7 @@ defaults:
     values:
       layout: draft
 
+permalink: /blogs/:title/
 
 twitter_username: AbinavRavi
 github_username:  AbinavRavi

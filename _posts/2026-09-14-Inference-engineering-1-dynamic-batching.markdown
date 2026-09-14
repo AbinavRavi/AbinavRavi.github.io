@@ -6,6 +6,7 @@ comments: True
 share: True
 mermaid: True
 categories: Inference Engineering
+permalink: /blogs/dynamic-batching/
 ---
 ## Introduction
 
