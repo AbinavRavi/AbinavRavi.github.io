@@ -5,6 +5,7 @@ date:   2019-12-07 18:45:00 +0100
 comments: True
 share: True
 categories: Machine learning
+permalink: /blogs/ood-baseline/
 ---
 
 Tom and Jerry are two data scientists meeting on a meetup. They generally discuss papers. Tom is a dedicated reader who pre-reads before coming to meetup and Jerry generally learns by breaking Tom's lecture with questions.

@@ -5,6 +5,7 @@ date:   2026-03-19 12:45:00 +0530
 comments: True
 share: True
 categories: Programming AI
+permalink: /blogs/llm-rate-limit-design/
 ---
 
 # Introduction

@@ -5,6 +5,7 @@ date:   2023-09-12 00:45:00 +0100
 comments: True
 share: True
 categories: Life
+permalink: /blogs/rant-camera/
 ---
 
 I have been on social media actively lurking around and liking posts, my posts are the occasional photo dump. I have never posted a instagram story nor do I intend to do anyday soon. Recently I saw that many of my real life friends go to a concert and then take a video of the concert while the performance is on. This somehow makes me want to grab phones of the audience and throw it away.

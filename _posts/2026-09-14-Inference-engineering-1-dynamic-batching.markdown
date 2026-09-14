@@ -187,7 +187,6 @@ flowchart LR
 The batcher worker collects incoming jobs until the batch size fills or the maximum wait deadline passes:
 
 ```python
-A simplified batcher might look like this:
 
 import asyncio
 import time

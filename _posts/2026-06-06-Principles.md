@@ -5,6 +5,7 @@ date:   2026-06-06 10:45:00 +0530
 comments: True
 share: True
 categories: Life
+permalink: /blogs/principles/
 ---
 
 I have been thinking deeply about the principles that define me as an engineer and a professional. These aren't just high-level philosophies; they are deliberate practices I commit to every day. 

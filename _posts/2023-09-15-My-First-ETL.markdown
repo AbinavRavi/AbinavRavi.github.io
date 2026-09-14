@@ -5,6 +5,7 @@ date:   2023-09-10 00:45:00 +0100
 comments: True
 share: True
 categories: Engineering
+permalink: /blogs/prefect-etl/
 ---
 ## Problem Statement
 

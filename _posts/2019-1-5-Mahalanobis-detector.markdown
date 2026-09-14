@@ -5,6 +5,7 @@ date:   2020-1-5 18:45:00 +0100
 comments: True
 share: True
 categories: Machine learning
+permalink: /blogs/mahalanobis-detector/
 ---
 
 **Tom**: Hey jerry, remember a couple of weeks ago I told you about a baseline detector for Out of distribution sample detection. I just read a paper that tops off the idea with better techniques.

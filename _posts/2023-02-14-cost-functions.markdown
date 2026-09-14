@@ -5,6 +5,7 @@ date:   2023-02-14 18:45:00 +0100
 comments: True
 share: True
 categories: Machine learning
+permalink: /blogs/cost-functions/
 ---
 ## Goal of Machine Learning
 

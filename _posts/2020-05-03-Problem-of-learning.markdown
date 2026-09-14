@@ -5,6 +5,7 @@ date:   2020-05-03 18:45:00 +0100
 comments: True
 share: True
 categories: Learning
+permalink: /blogs/types-of-learning/
 ---
 
 As a student of Machine learning there are various terms that are being thrown around in the community I would like to clarify on each of the terms and my opinion on how it will help solve the issue of Artificial General Intelligence which has remained the greater goal of the community. 

@@ -6,6 +6,7 @@ date:   2024-04-13 12:45:00 +0530
 comments: True
 share: True
 categories: Machine learning Operations
+permalink: /blogs/mlops-maturity/
 ---
 ## Introduction
 

@@ -5,6 +5,7 @@ date:   2020-05-01 18:45:00 +0100
 comments: True
 share: True
 categories: Machine learning
+permalink: /blogs/ood-odin/
 ---
 
 This post will deal with advanced version and a comparison with this [post](https://abinavravi.github.io/machine/learning/2019/12/07/Out-of-distribution-detection-baseline.html)

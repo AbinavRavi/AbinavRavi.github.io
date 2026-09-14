@@ -5,6 +5,7 @@ date:   2026-09-06 00:45:00 +0530
 comments: True
 share: True
 categories: Software Engineering
+permalink: /blogs/theory-of-constraints-software/
 ---
 ## Introduction
 Recently I read a book called [The Goal](https://www.amazon.in/Goal-Improvement-Anniversary-Management-Bestseller/dp/B0HBX52HCW/ref=sr_1_1?crid=2WEJFKQFCI913&dib=eyJ2IjoiMSJ9.j9x9RpGQoYEts77GmLV--EJsEELuUEeVpjKjZnZ3DZL6mAO-aYo-IspbGIS8J9I5VP1KCpTS7rLHuELh8bdyGZNZpgzXGdfv6HnxJHzx7AaLy_XHNUtF6vxXtf8Dw0Apb-dTWvlitZp26aXbXXyKbQFmymrCnTK1TmlvgHWZfJapBtRfjeks203XH5BATOMAVZ8KlWDz5LBHa8rnKN8hLkAaaLwB7VzZl3ba1427Co4.WE-bnxqEANAtuwY-Glc9-F3lajbAmH3DynMH2VzYq9M&dib_tag=se&keywords=the+goal+eliyahu+goldratt&qid=1788698517&sprefix=The+goal%2Caps%2C257&sr=8-1) by Eliyahu Goldratt

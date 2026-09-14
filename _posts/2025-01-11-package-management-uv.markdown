@@ -5,6 +5,7 @@ date:   2024-01-13 12:45:00 +0530
 comments: True
 share: True
 categories: Programming
+permalink: /blogs/uv-package-management/
 ---
 # Background 
 

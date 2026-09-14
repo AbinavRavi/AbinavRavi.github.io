@@ -5,6 +5,7 @@ date:   2023-02-20 00:45:00 +0100
 comments: True
 share: True
 categories: Engineering
+permalink: /blogs/private-packages-gitlab-github/
 ---
 
 If we work in an industry setting we need private packages for using as libraries to share across teams working on same project. To do that we can use package registry in github and gitlab. 

@@ -5,6 +5,7 @@ date:   2020-11-22 18:45:00 +0100
 comments: True
 share: True
 categories: Engineering
+permalink: /blogs/setup-instance/
 ---
 There are numerous tutorials individually on what to do for multiple steps that I do while setting up a new instance such as 
 

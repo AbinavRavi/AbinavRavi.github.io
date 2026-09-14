@@ -5,6 +5,7 @@ date:   2021-03-21 18:45:00 +0100
 comments: True
 share: True
 categories: Machine learning
+permalink: /blogs/federated-learning-om/
 ---
 
 [Openmined](https://courses.openmined.org/) released their second course on Foundations of Private computation on March 16, 2021. I started this course as a way to get my hands dirty with Federated learning which is the first concept that is part of the 60 hour course. 

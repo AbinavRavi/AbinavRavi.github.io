@@ -5,6 +5,7 @@ date:   2019-12-01 18:45:00 +0100
 comments: True
 share: True
 categories: Life-events
+permalink: blogs/hackatum-2019/
 ---
 
 The HackaTum is a yearly event organised by The Technical University of Munich in which various challenges are presented by companies and there is also a wild track for ideas non-conforming to tracks. This was my second HackaTum and third hackathon in total. In the first two hackathons me and my team weren't that successful but we had a great time. But this time it was meant to be different.
