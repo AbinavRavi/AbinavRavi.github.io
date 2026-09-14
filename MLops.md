@@ -1,15 +1,13 @@
 ---
 layout: page
-title: MLOps 
-permalink: /MLOps/
+title: ML Engineering
+permalink: /ML Engg/
 ---
 
-# Published
+# MLOps
 
 1. [How to deliver business value using AI systems](./_posts/2024-04-01-Business-value-MLOps.markdown)
 
+# Inference Engineering
 
-# Coming Soon
-
-1. [Experiment tracking using MLFlow](./_posts/2024-04-02-Experiment-tracking.markdown)
-
+2. [Dynamic Batching: Why your Model isn't the same as a CRUD application](./_posts/2026-09-14-Inference-engineering-1-dynamic-batching.markdown)
