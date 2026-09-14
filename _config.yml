@@ -9,9 +9,12 @@
 title: Abinav R
 email: abinav.rvkrish@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Machine Learning operations MLOps, Computer Vision, Medical Imaging
-#baseurl: "" # the subpath of your site, e.g. /blog
-#url: "http://yourdomain.com" # the base hostname & protocol for your site
+  Engineering notes on machine learning systems, MLOps,
+  inference engineering, computer vision, and production AI.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://abinavravi.github.io" # the base hostname & protocol for your site
+author:
+  name: Abinav R
 
 collections:
     drafts:
@@ -30,6 +33,10 @@ defaults:
       layout: draft
 
 permalink: /blogs/:title/
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 twitter_username: AbinavRavi
 github_username:  AbinavRavi

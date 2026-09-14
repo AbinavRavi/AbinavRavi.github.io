@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abinavravi.github.io/sitemap.xml
