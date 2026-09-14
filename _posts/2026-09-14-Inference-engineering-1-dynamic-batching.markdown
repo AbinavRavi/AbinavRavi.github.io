@@ -4,6 +4,7 @@ title:  "Inference Engineering 1 - Dynamic Batching: Why your Model isn't the sa
 date:   2026-09-14 00:45:00 +0530
 comments: True
 share: True
+mermaid: True
 categories: Inference Engineering
 ---
 ## Introduction

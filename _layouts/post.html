@@ -19,5 +19,7 @@ share: true
   {% if page.comments %}
     {% include comments.html %}
   {% endif %}
-
+  {% if page.mermaid %}
+    {% include mermaid.html %}
+  {% endif %}
 </article>
