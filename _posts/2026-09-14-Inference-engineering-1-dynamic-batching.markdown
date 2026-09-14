@@ -22,13 +22,7 @@ Online inference is when a model is hosted in a server somewhere and can provide
 
 Let us consider a very simple model of Image classification, We have trained a model which needs to take an image as input and then provide class among the known classes as the output. At that point, it is tempting to think of the problem as a fairly conventional web application:
 
-POST /predict
-       │
-       ▼
-    Model
-       │
-       ▼
-   Prediction
+POST /predict -> Model -> Prediction
 
 A framework such as FastAPI makes this particularly easy. We receive an image, run inference, and return the result. But there is an important difference between serving a machine learning model and serving a typical CRUD application.
 
